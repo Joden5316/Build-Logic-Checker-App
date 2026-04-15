@@ -8,3 +8,8 @@ if (hasDeveloperJob) {
 
 // 8. Another variable
 let isTimmyAGamer = false;
+
+// 9. If statement (won’t run)
+if (isTimmyAGamer) {
+  console.log("Timmy loves to play World of Warcraft.");
+}
