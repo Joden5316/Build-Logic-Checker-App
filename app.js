@@ -7,3 +7,7 @@ console.log(Boolean(truthyOrFalsy));
 // 3. Change to non-empty string
 truthyOrFalsy = "freeCodeCamp";
 console.log(Boolean(truthyOrFalsy));
+
+// 4. Change to falsy value (empty string)
+truthyOrFalsy = "";
+console.log(Boolean(truthyOrFalsy));
