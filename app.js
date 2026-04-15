@@ -22,3 +22,12 @@ if (timmyAge >= 16) {
 } else {
   console.log("Timmy is not old enough to drive.");
 }
+
+// Change age 
+timmyAge = 14;
+
+if (timmyAge >= 16) {
+  console.log("Timmy is old enough to drive.");
+} else {
+  console.log("Timmy is not old enough to drive.");
+}
